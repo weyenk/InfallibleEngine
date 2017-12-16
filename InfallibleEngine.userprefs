@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F848CF54-1FAD-4308-A0FB-6B18050C2B99}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InfallibleEngine/Tests/test.cs">
+    <Files>
+      <File FileName="InfallibleEngine/Engine.cs" Line="52" Column="13" />
+      <File FileName="InfallibleEngine/PageElement.cs" Line="11" Column="6" />
+      <File FileName="InfallibleEngine/Tests/test.cs" Line="21" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="InfallibleEngine" expanded="True">
+            <Node name="InfallibleEngine" expanded="True">
+              <Node name="unitTest" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InfallibleEngine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/weyenk/git/InfallibleEngine/InfallibleEngine/Engine.cs" relfile="InfallibleEngine/Engine.cs" line="59" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
